@@ -1,0 +1,26 @@
+.video-show {
+  height: 500px;
+  background-color: red;
+}
+video-show:hover {
+  cursor: pointer;
+}
+.video-frame {
+  height: 100%;
+}
+
+.video-details {
+  margin-top: 20px;
+}
+.video-details-1 {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+}
+.video-details-2 {
+  margin-top: 30px;
+  font-family: 'Uchen';
+}
+.des-font {
+  font-family: 'Uchen';
+}
