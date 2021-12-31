@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/pluvio_project_cv_3/static/css/main.b4791b0c.chunk.css",
+    "main.js": "/pluvio_project_cv_3/static/js/main.223c586f.chunk.js",
+    "main.js.map": "/pluvio_project_cv_3/static/js/main.223c586f.chunk.js.map",
+    "runtime-main.js": "/pluvio_project_cv_3/static/js/runtime-main.c293f0c7.js",
+    "runtime-main.js.map": "/pluvio_project_cv_3/static/js/runtime-main.c293f0c7.js.map",
+    "static/js/2.a1a21b13.chunk.js": "/pluvio_project_cv_3/static/js/2.a1a21b13.chunk.js",
+    "static/js/2.a1a21b13.chunk.js.map": "/pluvio_project_cv_3/static/js/2.a1a21b13.chunk.js.map",
+    "index.html": "/pluvio_project_cv_3/index.html",
+    "static/css/main.b4791b0c.chunk.css.map": "/pluvio_project_cv_3/static/css/main.b4791b0c.chunk.css.map",
+    "static/js/2.a1a21b13.chunk.js.LICENSE.txt": "/pluvio_project_cv_3/static/js/2.a1a21b13.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c293f0c7.js",
+    "static/js/2.a1a21b13.chunk.js",
+    "static/css/main.b4791b0c.chunk.css",
+    "static/js/main.223c586f.chunk.js"
+  ]
+}
